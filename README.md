@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning to become a Full stack developer.
 - 👯 I’m looking to collaborate on web development projects.
 - 💬 Feel free to message me.
-- 📫 How to reach me: email@dipeshpandit120.com.np
+- 📫 How to reach me: fill the contact form
 
