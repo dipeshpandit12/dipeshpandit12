@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a Full Stack & AI project.
-- 🌱 I’m currently learning to become a Full stack developer.
+🔭 I’m a Full Stack Software Developer.
+- 🌱 I’m currently designing custom AI models.
 - 👯 I’m looking to collaborate on web development and AI projects.
 - 💬 Feel free to message me.
 - 📫 How to reach me: You can email me.
